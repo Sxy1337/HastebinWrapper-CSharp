@@ -1,0 +1,17 @@
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\obj\Debug\net6.0\HastebinApi.csproj.AssemblyReference.cache
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\obj\Debug\net6.0\HastebinApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\obj\Debug\net6.0\HastebinApi.AssemblyInfoInputs.cache
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\obj\Debug\net6.0\HastebinApi.AssemblyInfo.cs
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\obj\Debug\net6.0\HastebinApi.csproj.CoreCompileInputs.cache
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\bin\Debug\net6.0\HastebinApi.deps.json
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\bin\Debug\net6.0\HastebinApi.dll
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\bin\Debug\net6.0\HastebinApi.pdb
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.csproj.AssemblyReference.cache
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.AssemblyInfoInputs.cache
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.AssemblyInfo.cs
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.csproj.CoreCompileInputs.cache
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.dll
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\refint\HastebinApi.dll
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\HastebinApi.pdb
+C:\Users\liam_\Desktop\Local Repo\Programming\Libs\HastebinApi\HastebinApiClassLib\obj\Debug\net6.0\ref\HastebinApi.dll

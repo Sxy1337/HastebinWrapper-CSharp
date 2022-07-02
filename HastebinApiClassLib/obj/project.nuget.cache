@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUOAIZkQXBbdj1t2fbuBx7X1rfue0PVluK4iHbFJ8funR0gH46cKsQPQ8J3HbLtJZVj/hVMhWyIq9iN4LZRKAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liam_\\Desktop\\Local Repo\\Programming\\Libs\\HastebinApi\\HastebinApiClassLib\\HastebinApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liam_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
