@@ -1,7 +1,5 @@
 # HastebinWrapper-CSharp
 
 
-A simple API Wrapper for Hastebin/Toptal written in c#. I made this wrapper in c# because there was one in almost every language but not c#.
-
-
-This wrapper was made in maybe half an hour. So dont expect clean code.
+A basic API wrapper for Hastebin/Toptal. This wrapper was written in C# since there was one in practically every other language but not in C#.
+This wrapper was constructed in around 30 minutes. So don't expect to see pristine code.
